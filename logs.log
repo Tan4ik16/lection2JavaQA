@@ -1,0 +1,3 @@
+2022-10-16 14:57:59,340 INFO SampleTest [main] Драйвер стартовал!
+2022-10-16 14:58:09,924 INFO SampleTest [main] Открыта страница DNS - https://www.dns-shop.ru/
+2022-10-16 14:58:10,703 INFO SampleTest [main] Драйвер остановлен!
